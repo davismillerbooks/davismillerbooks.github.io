@@ -1,8 +1,8 @@
 # Davis Miller Publishing House
 
-Discover high-quality programming books and tutorials written by Davis Miller.
+Discover high-quality programming books and tutorials.
 
-## Featured Books
+## Our Books
 - [Programming in Python](python.md)
 - [Java Programming](java.md)
 - [Kubernetes Handbook](kubernetes.md)

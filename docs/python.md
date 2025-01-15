@@ -3,11 +3,11 @@
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  
-**[Amazon Paperback](https://www.amazon.com/dp/B0DPCDFTNB)**.  
-**[Kindle Edition](https://www.amazon.com/dp/B0DPBLPB9W)**.  
-**[Google Play Books](https://play.google.com/store/books/details?id=Dik0EQAAQBAJ)**.  
-**[Audiobook Edition](https://play.google.com/store/audiobooks/details?id=AQAAAEDywxWD9M)**.  
-**[Apple Book Edition](https://books.apple.com/us/book/programming-in-python/id6738776486)**.  
+**[Amazon Paperback](https://www.amazon.com/dp/B0DPCDFTNB)**  
+**[Kindle Edition](https://www.amazon.com/dp/B0DPBLPB9W)**  
+**[Google Play Books](https://play.google.com/store/books/details?id=Dik0EQAAQBAJ)**  
+**[Audiobook Edition](https://play.google.com/store/audiobooks/details?id=AQAAAEDywxWD9M)**  
+**[Apple Book Edition](https://books.apple.com/us/book/programming-in-python/id6738776486)**  
 
 ## What to Expect
 This book is meticulously structured to guide you through the intricacies of Python programming, ensuring a balanced blend of theoretical concepts and practical applications. Here's a glimpse of what you'll explore:  

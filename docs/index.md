@@ -1,4 +1,4 @@
-# Welcome to Davis Miller Books
+# Davis Miller Publishing House
 
 Discover high-quality programming books and tutorials written by Davis Miller.
 

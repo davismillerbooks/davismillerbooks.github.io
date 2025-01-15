@@ -1,21 +1,21 @@
-![image](https://github.com/user-attachments/assets/10ec82b8-4a76-4543-b0ca-083be546b1f6)# Java Programming
+# Java Programming
 
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  
-**[Amazon Paperback](https://www.amazon.com/dp/B0DPCDFTNB)**.  
-**[Kindle Edition](https://www.amazon.com/dp/B0DPBLPB9W)**.  
-**[Google Play Books](https://play.google.com/store/books/details?id=Dik0EQAAQBAJ)**.  
-**[Audiobook Edition](https://play.google.com/store/audiobooks/details?id=AQAAAEDywxWD9M)**.  
-**[Apple Book Edition](https://books.apple.com/us/book/programming-in-python/id6738776486)**.  
+**[Amazon Paperback]([https://www.amazon.com/dp/B0DPCDFTNB](https://www.amazon.com/dp/B0DPSPLT1G))**.  
+**[Kindle Edition](https://www.amazon.com/dp/B0DPQW7SVF)**.  
+**[Amazon Hardcover](https://www.amazon.com/dp/B0DPSLG386)**.  
+**[Google Play Books](https://play.google.com/store/books/details?id=aXc2EQAAQBAJ)**.  
+**[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyI1ljuM)**.  
+**[Apple Book](https://books.apple.com/us/book/java-programming/id6739140411)**.  
 
 ## Key Features of the Book
-**1.	Comprehensive Coverage:** The book spans a wide range of topics, starting from Java’s history and basic syntax, moving through core programming concepts, and advancing to topics like multithreading, database connectivity, and web development.
-**2.	Hands-On Approach:** Each chapter includes practical examples and exercises to help readers apply what they’ve learned.
-**3.	Focus on Best Practices:** Emphasis is placed on writing clean, efficient, and maintainable code, supported by real-world examples and design patterns.
-**4.	Up-to-Date Content:** Covers modern Java features such as functional programming, Streams API, and cloud integration, ensuring relevance in today’s technology landscape.
-**5.	Step-by-Step Learning:** The progression of topics is logical and incremental, making it easy for readers to build on their knowledge as they progress.
-
+**1.	Comprehensive Coverage:** The book spans a wide range of topics, starting from Java’s history and basic syntax, moving through core programming concepts, and advancing to topics like multithreading, database connectivity, and web development.  
+**2.	Hands-On Approach:** Each chapter includes practical examples and exercises to help readers apply what they’ve learned.  
+**3.	Focus on Best Practices:** Emphasis is placed on writing clean, efficient, and maintainable code, supported by real-world examples and design patterns.  
+**4.	Up-to-Date Content:** Covers modern Java features such as functional programming, Streams API, and cloud integration, ensuring relevance in today’s technology landscape.  
+**5.	Step-by-Step Learning:** The progression of topics is logical and incremental, making it easy for readers to build on their knowledge as they progress.  
 
 
 ## Table of Contents

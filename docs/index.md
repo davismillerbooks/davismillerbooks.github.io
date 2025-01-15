@@ -3,8 +3,8 @@
 Discover high-quality programming books and tutorials written by Davis Miller.
 
 ## Featured Books
-- **Learn Python**
-- **Mastering Java**
-- **Kubernetes in Action**
+- [Programming in Python](python.md)
+- [Java Programming](java.md)
+- [Kubernetes Handbook](kubernetes.md)
 
 [View on Amazon](https://www.amazon.com)

@@ -1,15 +1,14 @@
-
 # Kubernetes Handbook
 
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  
-**[Amazon Paperback]()**.  
-**[Kindle Edition]()**.  
-**[Amazon Hardcover]()**.  
-**[Google Play Books]()**.  
-**[Audiobook]()**.  
-**[Apple Book]()**.  
+**[Amazon Paperback](https://www.amazon.com/dp/B0DPVMZDHR)**.  
+**[Kindle Edition](https://www.amazon.com/dp/B0DPV2DW49)**.  
+**[Amazon Hardcover](https://www.amazon.com/dp/B0DPW8Z4K5)**.  
+**[Google Play Books](https://play.google.com/store/books/details?id=Zpg2EQAAQBAJ)**.  
+**[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyYxwj_M)**.  
+**[Apple Book](https://books.apple.com/us/book/kubernetes-handbook/id6739180288)**.  
 
 ## Why "Introduction to Kubernetes" Stands Out
 **Practical Approach:** The book emphasizes hands-on tutorials and real-world examples, allowing readers to apply concepts immediately.

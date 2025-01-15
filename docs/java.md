@@ -3,12 +3,12 @@
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  
-**[Amazon Paperback](https://www.amazon.com/dp/B0DPSPLT1G)**.  
-**[Kindle Edition](https://www.amazon.com/dp/B0DPQW7SVF)**.  
-**[Amazon Hardcover](https://www.amazon.com/dp/B0DPSLG386)**.  
-**[Google Play Books](https://play.google.com/store/books/details?id=aXc2EQAAQBAJ)**.  
-**[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyI1ljuM)**.  
-**[Apple Book](https://books.apple.com/us/book/java-programming/id6739140411)**.  
+**[Amazon Paperback](https://www.amazon.com/dp/B0DPSPLT1G)**  
+**[Kindle Edition](https://www.amazon.com/dp/B0DPQW7SVF)**  
+**[Amazon Hardcover](https://www.amazon.com/dp/B0DPSLG386)**  
+**[Google Play Books](https://play.google.com/store/books/details?id=aXc2EQAAQBAJ)**  
+**[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyI1ljuM)**  
+**[Apple Book](https://books.apple.com/us/book/java-programming/id6739140411)**  
 
 ## Key Features of the Book
 **1.	Comprehensive Coverage:** The book spans a wide range of topics, starting from Java’s history and basic syntax, moving through core programming concepts, and advancing to topics like multithreading, database connectivity, and web development.  

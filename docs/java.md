@@ -3,7 +3,7 @@
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  
-**[Amazon Paperback]([https://www.amazon.com/dp/B0DPCDFTNB](https://www.amazon.com/dp/B0DPSPLT1G)**.  
+**[Amazon Paperback](https://www.amazon.com/dp/B0DPSPLT1G)**.  
 **[Kindle Edition](https://www.amazon.com/dp/B0DPQW7SVF)**.  
 **[Amazon Hardcover](https://www.amazon.com/dp/B0DPSLG386)**.  
 **[Google Play Books](https://play.google.com/store/books/details?id=aXc2EQAAQBAJ)**.  

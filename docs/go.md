@@ -5,12 +5,12 @@
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  
-**[Amazon Paperback]()**  
-**[Kindle Edition]()**  
-**[Amazon Hardcover]()**  
-**[Google Play Books]()**  
-**[Audiobook]()**  
-**[Apple Book]()**  
+**[Amazon Paperback](https://www.amazon.com/dp/B0DPDH57PC)**  
+**[Kindle Edition](https://www.amazon.com/dp/B0DJKDL6N8)**  
+**[Amazon Hardcover](https://www.amazon.com/dp/B0DPDBKMGP)**  
+**[Google Play Books](https://play.google.com/store/books/details?id=4ak0EQAAQBAJ)**  
+**[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyI1VjtM)**  
+**[Apple Book](https://books.apple.com/us/book/programming-in-go/id6738867820)**  
 
 Go, also known as Golang, is a modern, open-source programming language created by Google. Its simplicity, efficiency, and robust concurrency model have made it one of the most popular languages for developing scalable, high-performance applications.
 Key reasons to learn Go include:  

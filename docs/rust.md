@@ -11,6 +11,7 @@ You can buy the complete book with detailed explanations, code examples on:
 **[Google Play Books](https://play.google.com/store/books/details?id=6Oc5EQAAQBAJ)**  
 **[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyw02DrM)**  
 **[Apple Book](https://books.apple.com/us/book/learn-rust/id6739746882)**  
+**[Books to Read](https://books2read.com/b/mqOZ0v)**
 
 ## What You'll Learn
 This book is structured to provide a comprehensive journey through Rust, starting from the fundamentals and progressing to advanced topics. Here's a glimpse of what you can expect:  

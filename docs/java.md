@@ -11,6 +11,7 @@ You can buy the complete book with detailed explanations, code examples on:
 **[Google Play Books](https://play.google.com/store/books/details?id=aXc2EQAAQBAJ)**  
 **[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyI1ljuM)**  
 **[Apple Book](https://books.apple.com/us/book/java-programming/id6739140411)**  
+**[Books to Read](https://books2read.com/b/386gRO)**
 
 ## Key Features of the Book
 **1.	Comprehensive Coverage:** The book spans a wide range of topics, starting from Java’s history and basic syntax, moving through core programming concepts, and advancing to topics like multithreading, database connectivity, and web development.  

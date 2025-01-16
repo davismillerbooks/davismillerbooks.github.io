@@ -1,6 +1,8 @@
 # Programming in Go
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f5/dd/75/f5dd75e0-a00b-e7da-ee80-f81a70666c3c/dadce8fe-4345-4ea4-a1be-4bf5566af82c_cover_image.png/626x0w.webp" alt="Book Cover" width="150" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b8/4a/de/b84ade7f-4686-5bea-893b-bc2d0e3cdf1a/a1f55472-d799-4766-abf2-d3978a93026f_cover_image.png/626x0w.webp" alt="Book Cover" width="150" />
+
+https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b8/4a/de/b84ade7f-4686-5bea-893b-bc2d0e3cdf1a/a1f55472-d799-4766-abf2-d3978a93026f_cover_image.png/626x0w.webp
 
 ## Buy the Book
 

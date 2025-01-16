@@ -4,17 +4,17 @@ Welcome to Learn C, a comprehensive guide crafted to introduce you to the timele
 
 In this book, you’ll find a structured approach that makes learning engaging and accessible. We start with the basics—variables, data types, and loops—and progressively delve into advanced topics like memory management, pointers, and multi-file programming. Along the way, you’ll gain hands-on experience through carefully designed examples and projects that demonstrate how C applies to real-world problems. Whether your goal is to build your first application, understand how computers work at a deeper level, or prepare for a career in software engineering, Learn C will equip you with the skills and confidence you need to succeed. Let's begin this exciting journey into the world of C programming together!
 
-<img src=" alt="Book Cover" width="150" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/17/0d/ef/170def8c-d6cd-7f70-5fb6-5932c13d01be/156ad934-abf9-4b3f-a97e-9b2e994699f3_cover_image.png/626x0w.webp" alt="Book Cover" width="150" />
 
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  
-**[Amazon Paperback]()**  
-**[Kindle Edition]()**  
-**[Amazon Hardcover]()**  
-**[Google Play Books]()**  
-**[Audiobook]()**  
-**[Apple Book]()**  
+**[Amazon Paperback](https://www.amazon.com/dp/B0DPHMGGYQ)**  
+**[Kindle Edition](https://www.amazon.com/dp/B0DPGHQ2HD)**  
+**[Amazon Hardcover](https://www.amazon.com/dp/B0DPHNLNNG)**  
+**[Google Play Books](https://play.google.com/store/books/details?id=eQc1EQAAQBAJ)**  
+**[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyY1sjuM)**  
+**[Apple Book](https://books.apple.com/gb/book/learn-c/id6738939896)**  
 
 
 ## Table of Contents

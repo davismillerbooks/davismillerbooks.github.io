@@ -11,6 +11,7 @@ You can buy the complete book with detailed explanations, code examples on:
 **[Google Play Books](https://play.google.com/store/books/details?id=Zpg2EQAAQBAJ)**  
 **[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyYxwj_M)**  
 **[Apple Book](https://books.apple.com/us/book/kubernetes-handbook/id6739180288)**  
+**[Kubernetes Handbook](https://books2read.com/b/meV2Br)**
 
 ## Why "Introduction to Kubernetes" Stands Out
 **Practical Approach:** The book emphasizes hands-on tutorials and real-world examples, allowing readers to apply concepts immediately.

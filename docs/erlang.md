@@ -5,11 +5,11 @@
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  
-**[Amazon Paperback]()**  
-**[Kindle Edition]()**  
-**[Amazon Hardcover]()**  
-**[Google Play Books]()**  
-**[Audiobook]()**  
+**[Amazon Paperback](https://www.amazon.com/dp/B0DRF8JV72)**  
+**[Kindle Edition](https://www.amazon.com/dp/B0DRD76HQ4)**  
+**[Amazon Hardcover](https://www.amazon.com/dp/B0DRDR7B3R)**  
+**[Google Play Books](https://play.google.com/store/books/details?id=NFE6EQAAQBAJ)**  
+**[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyC3xLnM)**  
 **[Apple Book](https://books.apple.com/us/book/learn-erlang/id6739826357)**  
 
 ## Why Erlang?

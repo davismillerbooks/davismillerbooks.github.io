@@ -11,6 +11,7 @@ You can buy the complete book with detailed explanations, code examples on:
 **[Google Play Books](https://play.google.com/store/books/details?id=eQc1EQAAQBAJ)**  
 **[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyY1sjuM)**  
 **[Apple Book](https://books.apple.com/gb/book/learn-c/id6738939896)**  
+**[Books to Read](https://books2read.com/b/3LX9gN)**
 
 Welcome to Learn C, a comprehensive guide crafted to introduce you to the timeless programming language that has been the backbone of modern software development for decades. Whether you’re a complete beginner embarking on your first coding journey or an experienced programmer seeking to refine your skills, this book is designed to meet you where you are and take you further than you thought possible. C is not just a language—it’s a foundation. Understanding C will unlock pathways to system programming, game development, embedded systems, and even the languages that have evolved from its powerful structure, such as C++, Java, and Python.
 

@@ -20,8 +20,7 @@ You can buy the complete book with detailed explanations, code examples on:
 **[Google Play Books](https://play.google.com/store/books/details?id=TY84EQAAQBAJ)**  
 **[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyQw0D7M)**  
 **[Apple Book](https://books.apple.com/us/book/c-programming/id6739543074)**  
-
-
+**[Books to Read](https://books2read.com/b/mgoKG6)**
 
 ## Table of Contents
 

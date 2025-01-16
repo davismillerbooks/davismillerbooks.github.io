@@ -2,8 +2,6 @@
 
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b8/4a/de/b84ade7f-4686-5bea-893b-bc2d0e3cdf1a/a1f55472-d799-4766-abf2-d3978a93026f_cover_image.png/626x0w.webp" alt="Book Cover" width="150" />
 
-https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/b8/4a/de/b84ade7f-4686-5bea-893b-bc2d0e3cdf1a/a1f55472-d799-4766-abf2-d3978a93026f_cover_image.png/626x0w.webp
-
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  

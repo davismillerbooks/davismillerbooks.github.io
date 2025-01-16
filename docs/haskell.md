@@ -11,6 +11,7 @@ You can buy the complete book with detailed explanations, code examples on:
 **[Google Play Books](https://play.google.com/store/books/details?id=z_Q9EQAAQBAJ)**  
 **[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEAK2GWYfM)**  
 **[Apple Book](https://books.apple.com/us/book/learn-haskell/id6740448113)**  
+**[Books to Read](https://books2read.com/b/mgo1Z6)**
 
 ## Why Learn Haskell?
 **1.	Functional Paradigm:** Haskell encourages a different way of thinking about problems by emphasizing functions, immutability, and expressions over statements.  

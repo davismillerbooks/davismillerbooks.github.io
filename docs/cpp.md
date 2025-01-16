@@ -10,6 +10,7 @@ You can buy the complete book with detailed explanations, code examples on:
 **[Google Play Books](https://play.google.com/store/books/details?id=UdI3EQAAQBAJ)**  
 **[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyI1xjvM)**  
 **[Apple Book](https://books.apple.com/ca/book/learn-c/id6739451439)**  
+**[Books to Read](https://books2read.com/b/mBLMgy)** 
 
 C++ remains one of the most influential and widely used programming languages in the software development industry, renowned for its performance, versatility, and powerful feature set. This book is crafted to guide both beginners and experienced programmers through the intricate world of C++, starting with its rich history and evolution from the C language to the modern standards that define it today. You will explore the fundamental concepts of C++, including its object-oriented programming capabilities, efficient memory management, and the extensive Standard Library that empowers developers to build robust and high-performance applications. From setting up your development environment to writing and debugging your first program, each chapter is designed to build a solid foundation in C++ programming.  
 

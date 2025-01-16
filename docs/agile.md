@@ -11,7 +11,7 @@ You can buy the complete book with detailed explanations, code examples on:
 **[Google Play Books](https://play.google.com/store/books/details?id=89g2EQAAQBAJ)**  
 **[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyw1uDuM)**  
 **[Apple Book](https://books.apple.com/us/book/agile-foundations/id6739236119)**  
-
+**[Books to Read](https://books2read.com/u/47e8XN)**
 
 In an age defined by constant change and fierce competition, organizations and teams struggle to deliver value quickly without sacrificing quality. Traditional, rigid processes no longer suffice in markets where customer needs evolve at breakneck speed, technologies rapidly iterate, and product lifecycles shrink. It’s against this backdrop that Agile—a philosophy of adaptability, collaboration, and continuous improvement—emerged as a beacon of hope for building responsive, innovative, and resilient businesses.  
 

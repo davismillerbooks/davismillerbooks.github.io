@@ -25,5 +25,173 @@ You can buy the complete book with detailed explanations, code examples on:
 
 ## Table of Contents
 
+### Introduction to C#
+- Overview of C#
+- History and Evolution
+- Features of C#
+- Setting Up the Development Environment
+- Conclusion
+
+### C# Basics
+- The Structure of a C# Program
+- Variables and Data Types
+- Constants and Enumerations
+- Operators
+- Input and Output in C#
+- Summary
+
+### Control Flow
+- Conditional Statements
+- Loops
+- Break, Continue, and Goto
+- Best Practices
+- Summary
+
+### Object-Oriented Programming
+- Introduction to Object-Oriented Programming
+- Classes and Objects
+- Constructors and Destructors
+- Properties and Methods
+- Access Modifiers
+- Static Members
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation
+- Summary
+- Exercises
+
+### Advanced OOP Features
+- Delegates and Events
+- Lambda Expressions
+- Anonymous Types
+- Extension Methods
+- Indexers
+- Operator Overloading
+- Summary
+- Exercises
+
+### Data Structures and Collections
+- Arrays
+- Lists and Dictionaries
+- Stacks and Queues
+- HashSet and SortedSet
+- LinkedLists
+- Summary
+- Exercises
+
+### Generics in C#
+- Introduction to Generics
+- Generic Methods
+- Generic Classes
+- Summary
+- Exercises
+
+### LINQ (Language Integrated Query)
+- Introduction to LINQ
+- LINQ Queries
+- Deferred and Immediate Execution
+- LINQ with Collections
+- LINQ to XML
+- LINQ to SQL
+- Best Practices
+- Summary
+- Exercises
+
+### Error Handling
+- Exception Handling (try, catch, finally)
+- Custom Exceptions
+- Using Statements and IDisposable
+- Summary
+- Exercises
+
+### File Handling
+- Working with Files and Directories
+- Reading and Writing Files
+- Streams (FileStream, MemoryStream, etc.)
+- Serialization and Deserialization
+- Summary
+- Exercises
+
+### Threads and Threading
+- Task Parallel Library (TPL)
+- Async and Await
+- Concurrent Collections
+- Synchronization
+- Summary
+- Exercises
+
+### Working with Databases
+- ADO.NET Basics
+- Entity Framework Core
+- LINQ to SQL for Data Access
+- CRUD Operations
+- Using Stored Procedures
+- Summary
+- Exercises
+
+### Web Development with C#
+- Introduction
+- Introduction to ASP.NET Core
+- Razor
+- Blazor
+- MVC Framework
+- Web APIs
+- SignalR for Real-Time Communication
+
+### Introduction to Windows Applications in C#
+- Windows Forms Applications
+- WPF (Windows Presentation Foundation)
+- MVVM Design Pattern
+- Summary
+- Exercises
+
+### Unit Testing and Debugging
+- Introduction to Unit Testing and Debugging
+- Writing Unit Tests
+- Debugging Techniques in Visual Studio
+- Code Analysis Tools
+- Summary
+- Exercises
+
+### Memory Management
+- Introduction to Memory Management
+- Garbage Collection in .NET
+- IDisposable and Finalizers
+- Weak References
+- Summary
+- Exercises
+
+### Advanced Topics
+- Introduction to Advanced C# Topics
+- Reflection
+- Attributes and Annotations
+- Dynamic Programming
+- Expression Trees
+- Summary
+- Exercises
+
+### C# and .NET Core
+- Overview of .NET Core
+- Cross-Platform Development
+- Working with NuGet Packages
+- Dependency Injection
+- Summary
+- Exercises
+
+### Introduction to Unity with C#
+- Scripting Basics
+- Building Interactive Applications
+- Example: Creating a Simple Collectibles Game
+- Summary
+- Exercises
+
+### Best Practices
+- Coding Standards and Guidelines
+- Design Patterns
+- Optimizing C# Code
+- Secure Coding Practices
+- Summary
+- Exercises
 
 ---

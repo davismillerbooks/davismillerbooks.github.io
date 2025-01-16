@@ -1,5 +1,7 @@
 # Kubernetes Handbook
 
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/15/34/d5/1534d50a-3136-efec-6add-0c372199501c/5224aa24-75cd-4948-a203-473d23af7034_cover_image.jpg/626x0w.webp" alt="Book Cover" width="150" />
+
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  

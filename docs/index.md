@@ -10,6 +10,7 @@ Discover high-quality programming books and tutorials.
 - [Learn C](c.md)
 - [Learn C++](cpp.md)
 - [Agile Foundations](agile.md)
+- [C# Programming](csharp.md)
 
 ## Why Choose Davis Miller Books?
 At Davis Miller Books, we believe that learning should be engaging, practical, and accessible to everyone. Our books are carefully crafted to empower readers with the skills they need in today's fast-paced world of technology. Whether you're a beginner taking your first steps into programming or a seasoned developer looking to master advanced concepts, Davis Miller Books has something valuable for you.

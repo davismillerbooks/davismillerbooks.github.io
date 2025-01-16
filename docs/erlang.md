@@ -11,6 +11,7 @@ You can buy the complete book with detailed explanations, code examples on:
 **[Google Play Books](https://play.google.com/store/books/details?id=NFE6EQAAQBAJ)**  
 **[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyC3xLnM)**  
 **[Apple Book](https://books.apple.com/us/book/learn-erlang/id6739826357)**  
+**[Books to Read](https://books2read.com/b/bzOPgq)**
 
 ## Why Erlang?
 In an era where applications are expected to handle massive concurrency, maintain high availability, and operate seamlessly across distributed environments, Erlang stands out as a language built to meet these demands. Originally developed by Ericsson in the late 1980s for telecommunication systems, Erlang has proven its mettle in industries where reliability and uptime are non-negotiable. From powering the backend of WhatsApp, handling real-time bidding platforms, to managing critical systems in finance and healthcare, Erlang’s impact is both profound and far-reaching.  

@@ -8,6 +8,7 @@ You can buy the complete book with detailed explanations, code examples on:
 **[Google Play Books](https://play.google.com/store/books/details?id=Dik0EQAAQBAJ)**  
 **[Audiobook Edition](https://play.google.com/store/audiobooks/details?id=AQAAAEDywxWD9M)**  
 **[Apple Book Edition](https://books.apple.com/us/book/programming-in-python/id6738776486)**  
+**[Books to Read](https://books2read.com/b/bO9aoK)**
 
 ## What to Expect
 This book is meticulously structured to guide you through the intricacies of Python programming, ensuring a balanced blend of theoretical concepts and practical applications. Here's a glimpse of what you'll explore:  

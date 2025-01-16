@@ -5,11 +5,11 @@
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  
-**[Amazon Paperback]()**  
-**[Kindle Edition]()**  
-**[Amazon Hardcover]()**  
-**[Google Play Books]()**  
-**[Audiobook]()**  
+**[Amazon Paperback](https://www.amazon.com/dp/B0DR6X2L1G)**  
+**[Kindle Edition](https://www.amazon.com/dp/B0DR49D7ZQ)**  
+**[Amazon Hardcover](https://www.amazon.com/dp/B0DR6VS2QC)**  
+**[Google Play Books](https://play.google.com/store/books/details?id=6Oc5EQAAQBAJ)**  
+**[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyw02DrM)**  
 **[Apple Book](https://books.apple.com/us/book/learn-rust/id6739746882)**  
 
 ## What You'll Learn

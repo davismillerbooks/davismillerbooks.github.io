@@ -1,16 +1,15 @@
 # Learn C++
 
-<img src=" alt="Book Cover" width="150" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/f6/4a/2e/f64a2ee8-168b-f89c-4e92-a5879f14bdc9/0903fba5-4f8d-48b0-b978-1acd4d437ddc_cover_image.png/626x0w.webp" alt="Book Cover" width="150" />
 
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  
-**[Amazon Paperback]()**  
-**[Kindle Edition]()**  
-**[Amazon Hardcover]()**  
-**[Google Play Books]()**  
-**[Audiobook]()**  
-**[Apple Book]()**  
+**[Amazon Paperback](https://www.amazon.com/dp/B0DQGV7G6W)**  
+**[Kindle Edition](https://www.amazon.com/dp/B0DQDYQL28)**  
+**[Google Play Books](https://play.google.com/store/books/details?id=UdI3EQAAQBAJ)**  
+**[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDyI1xjvM)**  
+**[Apple Book](https://books.apple.com/ca/book/learn-c/id6739451439)**  
 
 C++ remains one of the most influential and widely used programming languages in the software development industry, renowned for its performance, versatility, and powerful feature set. This book is crafted to guide both beginners and experienced programmers through the intricate world of C++, starting with its rich history and evolution from the C language to the modern standards that define it today. You will explore the fundamental concepts of C++, including its object-oriented programming capabilities, efficient memory management, and the extensive Standard Library that empowers developers to build robust and high-performance applications. From setting up your development environment to writing and debugging your first program, each chapter is designed to build a solid foundation in C++ programming.  
 

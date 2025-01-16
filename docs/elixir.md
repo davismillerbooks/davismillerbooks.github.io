@@ -11,6 +11,7 @@ You can buy the complete book with detailed explanations, code examples on:
 **[Google Play Books](https://play.google.com/store/books/details?id=st46EQAAQBAJ)**  
 **[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDymzDb0M)**  
 **[Apple Book](https://books.apple.com/us/book/elixir-programming/id6739944973)**  
+**[Books to Read](https://books2read.com/b/mZVLY2)**
 
 Welcome to Elixir Programming, a comprehensive guide designed to help you master Elixir, a dynamic, functional language known for its scalability and fault-tolerant capabilities. Whether you're a seasoned developer exploring functional programming or a newcomer looking for a modern language to build scalable systems, this book offers a structured approach to understanding and leveraging Elixir's powerful features.  
 

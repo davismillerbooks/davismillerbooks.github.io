@@ -1,7 +1,7 @@
 # Programming in Python
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/57/3d/dc/573ddc23-30ba-6c4c-359b-184d80f428ba/5f730f6c-63e7-4462-b7b3-630e7f98364e_cover_image.png/626x0w.webp" alt="Book Cover" width="150" />
 
 ## Buy the Book
-
 You can buy the complete book with detailed explanations, code examples on:  
 **[Amazon Paperback](https://www.amazon.com/dp/B0DPCDFTNB)**  
 **[Kindle Edition](https://www.amazon.com/dp/B0DPBLPB9W)**  

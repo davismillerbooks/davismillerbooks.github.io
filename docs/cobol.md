@@ -1,15 +1,17 @@
-<img src="" alt="Book Cover" width="150" />
+# COBOL Programming
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/27/81/4f/27814f57-26ef-bbfb-9ba8-e32fd5671378/6e4eb8a6-f7d5-411a-914b-5ab509b92361_cover_image.png/600x600bb-85.jpg" alt="Book Cover" width="150" />
 
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  
-**[Amazon Paperback]()**  
-**[Kindle Edition]()**  
-**[Amazon Hardcover]()**  
-**[Google Play Books]()**  
-**[Audiobook]()**  
-**[Apple Book]()**  
-**[Books to Read]()**
+**[Amazon Paperback](https://www.amazon.com/dp/B0DT3X1PMD)**  
+**[Kindle Edition](https://www.amazon.com/dp/B0DTKMZJX3)**  
+**[Amazon Hardcover](https://www.amazon.com/dp/B0DT4JM5XY)**  
+**[Google Play Books](https://play.google.com/store/books/details?id=a7RAEQAAQBAJ)**  
+**[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEAKmnPaaM)**  
+**[Apple Book](https://books.apple.com/us/book/cobol-programming/id6740821299)**  
+**[Books to Read](https://books2read.com/b/bwOnq9)**
 
 ## What This Book Covers
 

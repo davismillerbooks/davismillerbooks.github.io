@@ -25,7 +25,7 @@ You can buy the complete book with detailed explanations, code examples on:
 **[Google Play Books](https://play.google.com/store/books/details?id=xGdDEQAAQBAJ)**  
 **[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEAKDWVNfM)**  
 **[Apple Book](http://books.apple.com/us/book/id6741685193)**  
-**[Books to Read]()**
+**[Books to Read](https://books2read.com/b/bPkNjA)**
 
 ## Table of Contents
 

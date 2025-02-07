@@ -1,6 +1,6 @@
 # Learn Fortran
 
-<img src="" alt="Book Cover" width="150" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7f/82/c8/7f82c861-131b-eaf9-8133-da5fa734d7fa/52a0aed9-05b4-413d-800d-e7ffffbf1471_cover_image.png/600x600bb-85.jpg" alt="Book Cover" width="150" />
 
 
 ## What This Book Covers
@@ -11,17 +11,20 @@ Learn Fortran provides a structured approach to mastering the language, starting
 -	Advanced topics like parallel computing, co-arrays, and OpenMP.
 -	Interfacing Fortran with C and Python for hybrid programming.
 -	Optimization techniques for efficient numerical computations.
+
+
 Each chapter includes real-world examples, practical exercises, and best practices to help readers apply their knowledge effectively. By the end of this book, you will have a solid grasp of Fortran and be capable of developing robust and scalable applications for scientific and engineering domains.
 Whether you're exploring Fortran for the first time or looking to enhance your existing knowledge, this book will serve as a comprehensive guide to mastering one of the most powerful languages in computational science. 
 
 ## Buy the Book
 
 You can buy the complete book with detailed explanations, code examples on:  
-**[Amazon Paperback]()**  
-**[Kindle Edition]()**  
-**[Google Play Books]()**  
-**[Audiobook]()**  
-**[Apple Book]()**  
+**[Amazon Paperback](https://www.amazon.com/dp/B0DVSCP5GQ)**  
+**[Amazon Hardcover](https://www.amazon.com/dp/B0DVSKX1LR)**  
+**[Kindle Edition](https://www.amazon.com/dp/B0DVTK4Q6V)**  
+**[Google Play Books](https://play.google.com/store/books/details?id=xGdDEQAAQBAJ)**  
+**[Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEAKDWVNfM)**  
+**[Apple Book](http://books.apple.com/us/book/id6741685193)**  
 **[Books to Read]()**
 
 ## Table of Contents
